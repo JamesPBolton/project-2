@@ -24,7 +24,7 @@ const Home = () => {
         <h2>One Bitcoin is worth <strong>£{ (rateData.bpi ? rateData.bpi.GBP.rate_float : '' ) }</strong></h2>
       </div>
       <div className="buttons-2" >
-        <Link to="/forex"><button>
+        <Link to="/project-2/forex"><button>
           See how it compares to other currencies!
         </button>
         </Link>

@@ -7,8 +7,8 @@ const Navbar = () => {
       <div className="navbar-end">
         <div className="navbar-item">
           <div className="buttons">
-            <Link className="button is-light" to="/">Home</Link>
-            <Link className="button is-light" to="/forex">Forex</Link>
+            <Link className="button is-light" to="/project-2">Home</Link>
+            <Link className="button is-light" to="/project-2/forex">Forex</Link>
           </div>
         </div>
       </div>
