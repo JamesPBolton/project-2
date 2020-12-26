@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 // import { Link } from 'react-router-dom'
 import axios from 'axios'
-import Music from './Music'  // Chrome won't play music onLoad anymore. Add a button?
+import Music from './Music'
 
 
 const Forex = () => {
