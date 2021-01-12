@@ -8,6 +8,8 @@ Overview
 
 This was my second project in the General Assembly Software Engineering Immersive course. It followed a week of learning about React and so it was a real test of how quickly I had picked up the language. The project was completed in a pair in 48 hours, and then presented to the rest of the class. You can launch the app on GitHub pages here.
 
+Link to the website: https://bit.ly/2XAolR6
+
 Brief
 
 The app had to:
