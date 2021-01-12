@@ -55,13 +55,13 @@ There is also a delay of up to five seconds from when the second page loads befo
 
 Lessons Learned
 
-Many! I learnt a lot about using APIs, in particular extracting the correct data. I also learnt a lot about React Router and how to set that up correctly. There was some trial and error in the coding and that allowed me to understand how to make the music play.
+Many! I learnt a lot about using APIs, in particular extracting the correct data. I also learnt a lot about React Router and how to set that up correctly, which was a win in the end! 
 
 I also used the console log in a lot more detail than I had before, which was particularly useful to understand what was working in the early stages of the code writing process, and to see if the data was being imported from the API successfully. 
 
-We also spent a fair amount of time getting to grips with Bulma, which wasn’t as easy to work with as we had thought it would be. It takes some trial and error to get the result you want, but with some time and effort we got there.
+We also spent a fair amount of time getting to grips with Bulma, which wasn’t as easy to work with as we had thought it would be. It takes a bit of testing before get the result you want, but with some time and effort we got there.
 
-It was also the first time I used React Audio Player and that was a success, although it required careful reading of the React literature. The code below looks relatively straightforward, but having spent just a week learning React it took a few hours to get it right:
+There was some trial and error when I was writing the code that made the music play, it was a challenging part of the project but I understood it and made it work (apart from the slight delay, mentioned above). It was  the first time I used React Audio Player so some careful reading of the React literature made the difference. The code below looks relatively straightforward, but having spent just a week learning React it took a few hours to get it right:
 
 ```js
 const Music = () => {								
