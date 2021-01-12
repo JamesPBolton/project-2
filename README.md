@@ -1,8 +1,8 @@
 
-
 General Assembly - Software Engineering Immersive
 
 BITCOIN INFORMATION 💰
+
 
 Overview
 
@@ -41,7 +41,10 @@ And just for fun, when the second page plays the theme song from the film Wall S
 Screenshots
 
 This is the Home page, which displays key Bitcoin currency information:
+![home_page](https://i.imgur.com/nnhaCre.png)
+
 And this is the second page, which also plays the theme from the Wall Street film:
+![second_pg](https://i.imgur.com/1DiDNRV.png)
 
 Bugs
 
